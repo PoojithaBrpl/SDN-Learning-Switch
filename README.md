@@ -1,3 +1,7 @@
+
+## 👤 Author
+Poojitha Lakshmi Bhaskara Raghavendra
+
 \# SDN Learning Switch Controller (Mininet + POX)
 
 
@@ -185,6 +189,18 @@ sudo ovs-ofctl -O OpenFlow10 dump-flows s1
 
 
 \---
+
+---
+
+## 🔍 Flow Table Verification
+
+Flow rules were verified using:
+
+sudo ovs-ofctl -O OpenFlow10 dump-flows s1
+
+This confirms that dynamic flow rules are installed in the switch.
+
+---
 
 
 
