@@ -168,7 +168,7 @@ sudo ovs-ofctl -O OpenFlow10 dump-flows s1
 
 
 
-!\[Ping](screenshots/4\_pingall.png)
+!\[Ping](pingall.png)
 
 
 
@@ -176,7 +176,7 @@ sudo ovs-ofctl -O OpenFlow10 dump-flows s1
 
 
 
-!\[Flow](screenshots/5\_flow\_table.png)
+!\[Flow](flow\_table.png)
 
 
 
@@ -184,7 +184,7 @@ sudo ovs-ofctl -O OpenFlow10 dump-flows s1
 
 
 
-!\[Failure](screenshots/6\_failure\_test.png)
+!\[Failure](failure\_test.png)
 
 
 
